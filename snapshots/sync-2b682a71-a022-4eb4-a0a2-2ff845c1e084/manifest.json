@@ -1,0 +1,36 @@
+{
+  "id": "sync-2b682a71-a022-4eb4-a0a2-2ff845c1e084",
+  "createdAt": "2026-11-02T06:41:48.732Z",
+  "manifest": {
+    "schemaVersion": 1,
+    "dshVersion": "0.2.1-rc.5",
+    "platform": "win32",
+    "sectionIds": [
+      "settings",
+      "ui",
+      "providers",
+      "plugins",
+      "prompts",
+      "skills",
+      "agentPresets",
+      "agentInstructions",
+      "self"
+    ],
+    "containsSecrets": false,
+    "transport": "git",
+    "sourceHome": "C:\\Users\\Admin\\.dsh",
+    "deviceId": "88183d5e-9875-4737-b6e9-3d35e74ff860",
+    "deviceName": "DESKTOP-CQN62IM"
+  },
+  "sectionHashes": {
+    "settings": "acb92ee0487784baa404500208aa40c4eff0350b6453302a84a2dc2915e5fc59",
+    "ui": "80978e7be56d94ff304f33196edab63d0a88159963ec4e66165754366dafa856",
+    "providers": "2003225321cd1d2cbe14ea8d404d5827e3a1fb58770ede98f95756da3567e72b",
+    "plugins": "4194dbfd247c30fc5812ddc1f4548a21a3b0f9bedc4a60fcc76e36f8219afc3e",
+    "prompts": "23d05fd89e9e61985416d8fb3dfc30e5aae4298aa4f684f2a0391b49d70e8cfd",
+    "skills": "ab8a4dd5c6f0bcc6e7e032e550ab91cb0b9ae4789ac3a654a92738559b367e16",
+    "agentPresets": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "agentInstructions": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "self": "91eeb0a937beb64cd56482650683ea108ba9951185f852d72f8e8bce1c595aec"
+  }
+}
